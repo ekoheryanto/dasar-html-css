@@ -1,0 +1,32 @@
+.posisi{
+  position: relative;
+  background-color: red;
+  color: white;
+  top: 50px;
+  /* margin-top: 50px */
+}
+.posisi2{
+position: absolute;
+background-color: orange;
+top: 45px;
+left:50px;
+margin: 0px;  /* menghilangkan margin default 16px */
+}
+div{
+  position: relative;
+  width: 200px;
+  height: 100px;
+  background-color: green;
+}
+.fix{
+  position: fixed;
+  background-color: purple;
+  color: white;
+  top: 0;
+}
+.stic{
+  position: sticky;
+  background-color: blue;
+  color: white;
+  top: 40px;
+}

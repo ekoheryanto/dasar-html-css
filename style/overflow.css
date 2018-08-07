@@ -1,0 +1,12 @@
+.over1{
+  height: 150px;
+  width: 150px;
+  background-color: orange;
+  overflow: scroll;
+}
+.over2{
+  height: 150px;
+  width: 150px;
+  background-color: green;
+  overflow: auto;
+}

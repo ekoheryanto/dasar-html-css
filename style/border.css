@@ -1,0 +1,15 @@
+.iniborder{
+  /* border-style: dotted; */
+  /* border-style: dashed; */
+  /* border-style: solid; */
+  /* border-style: double; */
+  /* border-style: groove; */
+  /* border-style: inset; */
+  /* border-style: outset; */
+
+  /* border-style: none; */
+  /* border-style: hide; */
+
+  /* border-style: dashed solid inset dotted; */
+  border-style: inset outset;
+}

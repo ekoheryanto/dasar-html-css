@@ -1,0 +1,9 @@
+.gambar{
+  width: 200px;
+  height: 200px;
+  float: left;
+  /* float:none; digunakan untuk disable none  */
+}
+h1{
+  display: inline-block;
+}

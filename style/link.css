@@ -1,0 +1,27 @@
+.satu:link{
+color: orange;
+}
+.satu:visited{
+color: green;
+}
+.satu:hover{
+color: blue;
+}
+.satu:active{
+  color: red;
+}
+.dua:link{
+color: orange;
+}
+.dua:visited{
+color: green;
+}
+.dua:hover{
+color: blue;
+}
+.dua:active{
+  color: red;
+}
+a{
+  text-decoration: none;
+}

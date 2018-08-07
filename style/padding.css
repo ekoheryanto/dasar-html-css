@@ -1,0 +1,10 @@
+.inipadding{
+  background-color: orange;
+}
+#inicontohpadding{
+  /* padding-top: 50px; */
+  /* margin-bottom: 50px; */
+  /* padding-left: 50px; */
+  padding: 50px;
+  margin: 50px;
+}

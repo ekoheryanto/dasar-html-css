@@ -1,0 +1,11 @@
+.outlineku{
+  margin: 50px;
+  outline-style: solid;
+  outline-color: green;
+  outline-width: 10px;
+  outline-offset: 10px;
+
+  border-style: dotted;
+  border-color: orange;
+  border-width: 5px;
+}

@@ -1,0 +1,27 @@
+h1{
+  color: orange;
+}
+#coba{
+  color: green;
+}
+.kita{
+  color : violet;
+}
+h2, h3, h4 {
+  color: red;
+}
+h6.ini{
+  color: blue;
+}
+#hex{
+  color: #26f6b2;
+}
+#back{
+  background-color: #4b2165;
+}
+body{
+  /* background-image: url("../img/ciletuh.jpg");
+  background-repeat: no-repeat;
+  background-position: center top; */
+  background: orange url("../img/ciletuh.jpg") no-repeat center top;
+}
